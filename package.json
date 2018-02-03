@@ -1,0 +1,9 @@
+{
+  "name": "OAuth2.0 - Server Side Web App Flow",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "nodemon": "*",
+    "request": "*"
+  }
+}
